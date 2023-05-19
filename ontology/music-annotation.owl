@@ -1,4 +1,6 @@
 @prefix : <https://w3id.org/polifonia/ontology/music-annotation/> .
+@prefix mp: <https://w3id.org/polifonia/ontology/music-projection/> .
+@prefix mr: <https://w3id.org/polifonia/ontology/music-representation/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
@@ -10,8 +12,7 @@
 
 <https://w3id.org/polifonia/ontology/music-annotation/> rdf:type owl:Ontology ;
                                                          owl:versionIRI <https://w3id.org/polifonia/ontology/music-annotation/1.0/> ;
-                                                         owl:imports <http://w3id.org/polifonia/ontology/jams/0.1/> ,
-                                                                     <https://w3id.org/polifonia/ontology/core/0.1/> ;
+                                                         owl:imports <http://w3id.org/polifonia/ontology/jams/1.0/> ;
                                                          <http://purl.org/dc/elements/1.1/creator> "Andrea Poltronieri (UniBo)"@en ,
                                                                                                    "Jacopo de Berardinis (KCL)"@en ,
                                                                                                    "Nicolas Lazzari (UniBo)"@en ,
