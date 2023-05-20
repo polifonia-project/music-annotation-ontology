@@ -13,7 +13,7 @@ A fully fledged annotation model here is the [JAMS Ontology](https://github.com/
 This ontology mimics the structure of a JAMS (JSON Annotated Music Specification for Reproducible MIR Research) document.
 It semantically describes and connects all the elements of the JAMS specification (Annotatio, Observation, etc.),  including the music metadata and the annotation contents using the [Music Meta](https://github.com/polifonia-project/music-meta-ontology) and [Music Representation](https://github.com/polifonia-project/music-representation-ontology) modules, respectively.
 
-<img width="809" alt="jams-ontology" src="assets/jams_ontology.png">
+<img width="809" alt="jams-ontology" src="assets/jams-ontology.png">
 
 ## Competency questions addressed
 
