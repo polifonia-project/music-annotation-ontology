@@ -35,7 +35,7 @@ It semantically describes and connects all the elements of the JAMS specificatio
 | **CQ12** | What is the confidence of an observation?                                                                          |
 | **CQ13** | What are the chords of a composition/performance?                                                                  |           
 
-## Related ontologies
+## Imported ontologies
 
 ### Direct imports
 - [JAMS Onotlogy](https://w3id.org/polifonia/ontology/jams)
