@@ -4,6 +4,8 @@ The Music Annotation module provides different music annotation models to accomm
 [![DOI](https://zenodo.org/badge/372536364.svg)](https://zenodo.org/badge/latestdoi/372536364)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+> 🔗 Ontology URI: [https://w3id.org/polifonia/ontology/music-annotation/](https://w3id.org/polifonia/ontology/music-annotation/)
+
 The primary objective of this module is to enhance support for other descriptional systems, thus increasing interoperability and conversion possibilities from various music annotation formats.
 Indeed, all our models are logically interconnected through Music Representation. 
 
@@ -31,7 +33,7 @@ It semantically describes and connects all the elements of the JAMS specificatio
 | **CQ10** | What is the key of a composition/performance?                                                                      |
 | **CQ11** | What is the value of an observation?                                                                               |
 | **CQ12** | What is the confidence of an observation?                                                                          |
-| **CQ13** | What are the chords of a composition/performance?                                                                  |       
+| **CQ13** | What are the chords of a composition/performance?                                                                  |           
 
 ## Related ontologies
 
@@ -62,3 +64,8 @@ This work is licensed under a
 
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
+
+## References
+
+[1] Eric J. Humphrey, Justin Salamon, Oriol Nieto, Jon Forsyth, Rachel M. Bittner, and Juan P. Bello, "JAMS: A JSON Annotated Music Specification for Reproducible MIR Research", Proceedings of the 15th International Conference on Music Information Retrieval, 2014.
+[2] Harte, Christopher & Sandler, Mark & Abdallah, Samer & Gómez, Emilia. (2005). Symbolic Representation of Musical Chords: A Proposed Syntax for Text Annotations.. 66-71.
