@@ -37,8 +37,6 @@ It semantically describes and connects all the elements of the JAMS specificatio
 
 ## Related ontologies
 
-### External imports
-
 ### Direct imports
 - [JAMS Onotlogy](https://w3id.org/polifonia/ontology/jams)
 
