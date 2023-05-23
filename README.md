@@ -1,4 +1,5 @@
 # Music Annotation Ontology
+
 The Music Annotation module provides different music annotation models to accommodate musicological and information retrieval use cases.
 
 [![DOI](https://zenodo.org/badge/372536364.svg)](https://zenodo.org/badge/latestdoi/372536364)
@@ -7,15 +8,15 @@ The Music Annotation module provides different music annotation models to accomm
 > 🔗 Ontology URI: [https://w3id.org/polifonia/ontology/music-annotation/](https://w3id.org/polifonia/ontology/music-annotation/)
 
 The primary objective of this module is to enhance support for other descriptional systems, thus increasing interoperability and conversion possibilities from various music annotation formats.
-Indeed, all our models are logically interconnected through Music Representation. 
+Indeed, all our models are logically interconnected through Music Representation.
 
 ### JAMS Ontology
 
 A fully fledged annotation model here is the [JAMS Ontology](https://github.com/polifonia-project/jams-ontology).
 This ontology mimics the structure of a JAMS (JSON Annotated Music Specification for Reproducible MIR Research) document.
-It semantically describes and connects all the elements of the JAMS specification (Annotatio, Observation, etc.),  including the music metadata and the annotation contents using the [Music Meta](https://github.com/polifonia-project/music-meta-ontology) and [Music Representation](https://github.com/polifonia-project/music-representation-ontology) modules, respectively.
+It semantically describes and connects all the elements of the JAMS specification (Annotatio, Observation, etc.), including the music metadata and the annotation contents using the [Music Meta](https://github.com/polifonia-project/music-meta-ontology) and [Music Representation](https://github.com/polifonia-project/music-representation-ontology) modules, respectively.
 
-<img width="809" alt="jams-ontology" src="assets/jams-ontology.png">
+<img width="809" alt="jams-ontology" src="diagrams/jams-ontology.png">
 
 ## Competency questions addressed
 
@@ -33,33 +34,34 @@ It semantically describes and connects all the elements of the JAMS specificatio
 | **CQ10** | What is the key of a composition/performance?                                                                      |
 | **CQ11** | What is the value of an observation?                                                                               |
 | **CQ12** | What is the confidence of an observation?                                                                          |
-| **CQ13** | What are the chords of a composition/performance?                                                                  |           
+| **CQ13** | What are the chords of a composition/performance?                                                                  |
 
 ## Imported ontologies
 
 ### Direct imports
+
 - [JAMS Onotlogy](https://w3id.org/polifonia/ontology/jams)
 
 ### Indirect imports
+
 - [Core Onotlogy](https://w3id.org/polifonia/ontology/core)
 - [Musi Meta Onotlogy](https://w3id.org/polifonia/ontology/music-meta)
 - [Music Representation Onotlogy](https://w3id.org/polifonia/ontology/music-representation)
 - [Music Projection Onotlogy](https://w3id.org/polifonia/ontology/music-projection)
 
-
 ## Statistics
-We report the following statistics for the Music Annotation module: 
-- number of classes: 208 
+
+We report the following statistics for the Music Annotation module:
+
+- number of classes: 208
 - number of object properties: 207
 - number of datatype properties: 27
 - number of logical axioms: 1237
-
 
 ## License
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
-
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 
