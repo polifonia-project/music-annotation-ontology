@@ -3,7 +3,7 @@ component-id: https://w3id.org/polifonia/ontology/music-annotation/
 type: Ontology
 name: Music Annotation ontology
 description: Music Annotation describes various types of music annotation standards
-image: assets/jams-ontologypng
+image: https://github.com/polifonia-project/music-annotation-ontology/raw/main/diagrams/jams-ontology.png
 work-package:
 - WP2
 - WP3
@@ -17,7 +17,7 @@ release-link: https://github.com/polifonia-project/music-annotation-ontology
 doi: 10.5281/zenodo.7919970
 changelog: https://github.com/polifonia-project/music-annotation-ontology
 licence: 
-- CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
+- CC-BY_v4
 copyright: "Copyright (c) 2023 Source Ontology Contributors"
 contributors: # replace these with the GitHub URL of each contributor
 - Jacopo de Berardinis <https://github.com/jonnybluesman>
@@ -29,8 +29,6 @@ related-components:
   - https://github.com/polifonia-project/core-ontology/
   - https://github.com/polifonia-project/music-meta-ontology/
   - https://github.com/polifonia-project/music-projection-ontology/
-- story:  # any related story this ontology addresses
-- persona:  # any persona this ontology addresses
 - documentation:  # link any resource providing documentation for this ontology
   - https://github.com/polifonia-project/music-annotation-ontology
 ---
